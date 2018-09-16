@@ -21,6 +21,7 @@ head(y_data_oneh)
 ## Creating the sequential model
 model = keras_model_sequential() %>%   
   layer_dense(units = 64, activation = "relu", input_shape = ncol(x_data)) %>%
+  layer_dense(units = 64, activation = "relu") %>%
   layer_dense(units = ncol(y_data_oneh), activation = "softmax")
 
 model
