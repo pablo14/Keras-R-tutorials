@@ -1,5 +1,7 @@
 ##############################################
 ## Keras sequential model tutorial 
+## Repo: https://github.com/pablo14/Keras-R-tutorials/blob/master/keras_sequential_model.R
+## Pablo Casas | @pabloc_ds
 ##############################################
 
 # Input: 10000 rows and 3 columns of uniform distribution
