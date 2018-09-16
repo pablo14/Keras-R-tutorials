@@ -1,6 +1,7 @@
 ##############################################
 ## Keras sequential model tutorial 
 ## Repo: https://github.com/pablo14/Keras-R-tutorials/blob/master/keras_sequential_model.R
+## Post explaining everything on this script: https://blog.datascienceheroes.com/how-to-create-a-sequential-model-in-keras-for-r/
 ## Pablo Casas | @pabloc_ds
 ##############################################
 
